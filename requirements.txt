@@ -75,7 +75,7 @@ huggingface-hub==0.29.1
 idna==3.10
 importlib_metadata==7.2.1
 interchange==2021.0.4
-ipython==8.12.3
+ipython==9.0.0
 ipython_pygments_lexers==1.1.1
 itsdangerous==2.2.0
 jedi==0.19.2
@@ -191,8 +191,7 @@ spacy-loggers==1.0.5
 SQLAlchemy==2.0.39
 srsly==2.5.1
 stack-data==0.6.3
-streamlit==1.44.1
-streamlit-option-menu==0.4.0
+streamlit==1.32.0
 sympy==1.13.1
 tenacity==8.5.0
 tensorboard==2.19.0
