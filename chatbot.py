@@ -1,7 +1,7 @@
 import streamlit as st
 from google import genai
 
-client = genai.Client(api_key="AIzaSyBcfDVKb6gDm3MeLj-Of2b-gPd6zn4xnWg")
+client = genai.Client(api_key="your_api_key")
 
 st.title("🤖 KrishiMitra AI Chatbot")
 
